@@ -3,7 +3,7 @@
 ¡Bienvenido al repositorio oficial del canal **Programación Para Todos**! Aquí encontrarás todo el material de apoyo para dominar la lógica de programación desde cero.
 
 ## 🧠 Configuración de PSeInt
-En la carpeta `/configuracion_pseint` tienes el perfil personalizado del canal. Importa este archivo en tu PSeInt para tener las mismas reglas estrictas que usamos en los videos.
+En la carpeta `/002_Perfil PSeInt` tienes el perfil personalizado del canal. Importa este archivo en tu PSeInt para tener las mismas reglas estrictas que usamos en los videos.
 
 ## 📂 Estructura de los Ejercicios
 Cada ejercicio está organizado en su propia carpeta e incluye:
