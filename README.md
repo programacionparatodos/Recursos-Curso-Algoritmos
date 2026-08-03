@@ -13,7 +13,6 @@ Cada ejercicio está organizado en su propia carpeta e incluye:
 4. **Prueba de Escritorio**: El rastreo manual paso a paso.
 
 ## 🚀 Enlaces Clave
-* 📺 Canal de YouTube: [@ProgramacionParaTodos](https://www.youtube.com/@Programaci%C3%B3nParaTodos)
 * 📒 Plataforma del Curso en Notion: [Acceder al Curso](https://tinyurl.com/CursoDeAlgoritmosPPT)
 
 ## 🌐 Conéctate con la Comunidad
