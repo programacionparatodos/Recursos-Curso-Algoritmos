@@ -15,5 +15,9 @@ Cada ejercicio está organizado en su propia carpeta e incluye:
 ## 🚀 Enlaces Clave
 * 📺 Canal de YouTube: [@ProgramacionParaTodos](https://www.youtube.com/@Programaci%C3%B3nParaTodos)
 * 📒 Plataforma del Curso en Notion: [Acceder al Curso](https://tinyurl.com/CursoDeAlgoritmosPPT)
-* 💬 Únete al Canal de WhatsApp: [Comunidad WhatsApp](https://tinyurl.com/ChannelWhatsAppPPT)
-* ✈️ Únete al Grupo de Telegram: [Comunidad Telegram](https://t.me/ProgramacionParaTodos)
+
+## 🌐 Conéctate con la Comunidad
+
+¡Súmate a nuestros canales oficiales para no perderte ningún tutorial y resolver tus dudas con otros estudiantes!
+
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://tinyurl.com/ProgramacionParaTodos/?sub_confirmation=1) [![Canal WhatsApp](https://img.shields.io/badge/Canal%20Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://tinyurl.com/ChannelWhatsAppPPT) [![Grupo WhatsApp](https://img.shields.io/badge/Grupo%20Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://tinyurl.com/GrupoWhatsAppPPT) [![Telegram](https://img.shields.io/badge/Telegram-26A69A?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ProgramacionParaTodos)
